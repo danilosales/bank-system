@@ -1,0 +1,5 @@
+**/*.log
+Dockerfile
+docker-compose-yaml
+.git
+.gitignore
